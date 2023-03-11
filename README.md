@@ -1,7 +1,7 @@
 # verbose-rotary-phone
 a education website using dart
 # Template:
-[![<Softlink-Technologies>](https://circleci.com/<VCS>/<ORG_NAME>/<PROJECT_NAME>.svg?style=svg)](<LINK>)
+[![<https://github.com/Softlink-Technologies>](https://circleci.com/<VCS>/<ORG_NAME>/<PROJECT_NAME>.svg?style=svg)](<LINK>)
 
 # HEY:
 [![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
